@@ -1,6 +1,5 @@
 # Software Name: Ham Radio Logger
 # Author: Bocaletto Luca
-# Web Site: https://www.elektronoide.it
 import sys
 import sqlite3
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QPushButton, QTableWidget, QTableWidgetItem, QLineEdit, QLabel
