@@ -27,3 +27,11 @@ Ham Radio Logger is a specialized software designed by Bocaletto Luca for amateu
 - **Intuitive User Interface:** Ham Radio Logger is designed with an intuitive user interface that enables users to access all software features without complications.
 
 This software is an essential tool for radio amateurs looking to organize, track, and analyze their radio activities, providing an efficient way to manage their contacts and enhance their overall amateur radio experience. With the continuous support of the author, Bocaletto Luca, and access to the official website ([https://bocaletto-luca.github.io](https://bocaletto-luca.github.io)), users can stay updated on the latest versions and additional features of Ham Radio Logger.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
